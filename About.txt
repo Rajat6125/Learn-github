@@ -1,1 +1,3 @@
 Hello let's explore the github and git to learn some new concepts.
+
+Here we will learn how branch and merge work
